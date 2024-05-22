@@ -1,4 +1,4 @@
-# {Project or document title}
+# Public CD of SMPTE ST 2067-72
 
 ## General
 
