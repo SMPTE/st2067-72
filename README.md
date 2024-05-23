@@ -13,9 +13,7 @@ Please report issues via the SMPTE GitHub [Issue Tracker](https://github.com/SMP
 
 The following elements are made available for a public review period ending no earlier than {YYYY-MM-DD}, and no later than {YYYY-MM-DD}:
 
-* [{prose element}]({link to prose element})
-* [{element #1}]({link to element #1})
-* ...
+* [35PM-PCD-ST-2067-72-IMF-Application-VC-5.pdf](https://github.com/SMPTE/st2067-72/blob/main/35PM-PCD-ST-2067-72-IMF-Application-VC-5.pdf)
 
 ## Details
 
