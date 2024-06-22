@@ -13,7 +13,7 @@ Please report issues via the SMPTE GitHub [Issue Tracker](https://github.com/SMP
 
 The following elements are made available for a public review period ending no earlier than 2024-11-18, and no later than 2025-05-19:
 
-* [35PM-PCD-ST-2067-72-IMF-Application-VC-5.pdf](https://github.com/SMPTE/st2067-72/blob/main/35PM-PCD-ST-2067-72-IMF-Application-VC-5.pdf)
+* [PCD SMPTE ST 2067-72](https://github.com/SMPTE/st2067-72/blob/main/35PM-PCD-ST-2067-72.pdf)
 
 ## Details
 
