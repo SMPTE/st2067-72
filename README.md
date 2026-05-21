@@ -1,4 +1,4 @@
-# Public CD of SMPTE ST 2067-72
+# SMPTE ST 2067-72
 
 ## General
 
@@ -8,6 +8,8 @@ Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONF
 [PATENTS.md](./PATENTS.md) for important notices.
 
 Please report issues via the SMPTE GitHub [Issue Tracker](https://github.com/SMPTE/st2067-72/issues) or by email to [35pm-chair@smpte.org](mailto:35pm-chair@smpte.org).
+
+<!-- PCD-INFO:START -->
 
 ## Public Committee Draft (PCD) Notice
 
@@ -51,3 +53,5 @@ Extends the VC-5 standard to specify a method for representing metadata in VC-5 
 
 **SMPTE ST 2073-10 Mapping VC-5 Video Essence into the MXF Generic Container**</br>
 Specifies the mapping of VC-5 image essence as a picture essence track of the MXF generic container in frame-wrapped, clip-wrapped, or custom-wrapped form.
+
+<!-- PCD-INFO:END -->
